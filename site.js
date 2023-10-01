@@ -115,10 +115,10 @@ var list = [
 ];
 
 var padisah = {
-  1: "II.mahmut",
-  2: "Sultan ApdülMecit",
+  1: "II. Mahmut",
+  2: "Sultan Apdülmecit",
   3: "Sultan Abdulaziz",
-  4: "II AbdülHamit",
+  4: "II. Abdülhamit",
 };
 
 karistir(list);
